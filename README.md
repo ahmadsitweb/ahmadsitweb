@@ -32,3 +32,4 @@ hello ahmad's it
 
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadsitweb&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadsitweb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
